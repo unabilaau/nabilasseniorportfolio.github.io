@@ -1,0 +1,16 @@
+#movingBox{
+  background-color:#CCCCFF;
+  border:#D988803px;
+  width:75px;
+  position: relative;
+  left:200px;
+}
+buttom{
+  color: #CCCCFF;
+  border: dashed;
+  background-color:#D98880;
+  position:relative;
+  left: 100px;
+  position: relative;
+  left:200px;
+}

@@ -1,0 +1,27 @@
+*{
+  box-sizing: border-box; 
+}
+body{
+  background-color: darkgreen;
+  color: lightsalmon;
+}
+.topnav{
+  background-color: darkcyan;
+  overflow: hidden;
+}
+.topnav a{
+  color: azure;
+  float: left;
+  display: block; 
+  text-align: center;
+  padding: 14px 16px; 
+}
+.topnav a:hover{
+  background-color: blanchedalmond; 
+  color:darkred;
+}
+.column{
+  float: left; 
+  width: 33.33%; 
+  padding: 15px 
+}
